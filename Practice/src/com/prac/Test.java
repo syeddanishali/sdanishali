@@ -25,6 +25,7 @@ public class Test implements Serializable {
 	
 	
 	public static void main(String[] args) {
+		System.out.println("First change test");
 		
 //		String finalValue= doubleChar("The");  //to print the in tthhee format
 //		System.out.println("finalValue=="+finalValue);
